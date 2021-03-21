@@ -1,3 +1,5 @@
+This will allow you to print texts out in different colors.
+
 Reset
 
 Bright
