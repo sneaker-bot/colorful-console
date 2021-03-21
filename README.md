@@ -1,5 +1,7 @@
 This will allow you to print texts out in different colors.
 
+Bg is background.
+
 Reset
 
 Bright
