@@ -1,0 +1,26 @@
+const log = require('./log.js');
+
+log.Reset('Backenddev');
+log.Bright('Backenddev');
+log.Dim('Backenddev');
+log.Underscore('Backenddev');
+log.Blink('Backenddev');
+log.Blink('Backenddev');
+log.Reverse('Backenddev');
+log.Hidden('Backenddev');
+log.Black('Backenddev');
+log.Red('Backenddev');
+log.Green('Backenddev');
+log.Yellow('Backenddev');
+log.Blue('Backenddev');
+log.Magenta('Backenddev');
+log.Cyan('Backenddev');
+log.White('Backenddev');
+log.BgBlack('Backenddev');
+log.BgRed('Backenddev');
+log.BgGreen('Backenddev');
+log.BgYellow('Backenddev');
+log.BgBlue('Backenddev');
+log.BgMagenta('Backenddev');
+log.BgCyan('Backenddev');
+log.BgWhite('Backenddev');
